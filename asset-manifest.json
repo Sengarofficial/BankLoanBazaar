@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BankLoanBazaar/static/css/main.a89c3c9e.css",
+    "main.js": "/BankLoanBazaar/static/js/main.25445366.js",
+    "static/js/453.353bae85.chunk.js": "/BankLoanBazaar/static/js/453.353bae85.chunk.js",
+    "index.html": "/BankLoanBazaar/index.html",
+    "main.a89c3c9e.css.map": "/BankLoanBazaar/static/css/main.a89c3c9e.css.map",
+    "main.25445366.js.map": "/BankLoanBazaar/static/js/main.25445366.js.map",
+    "453.353bae85.chunk.js.map": "/BankLoanBazaar/static/js/453.353bae85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a89c3c9e.css",
+    "static/js/main.25445366.js"
+  ]
+}
