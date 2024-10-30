@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <nav className="navbar">
             <div className="logo">
-                <img src={`${process.env.PUBLIC_URL}/logo(1).png`} alt="Company Logo" /> {/* Correct path */}
+                <img src={`${process.env.PUBLIC_URL}/logo (1).png`} alt="Company Logo" /> {/* Correct path */}
             </div>
             <ul className="nav-menu">
                 <li>
